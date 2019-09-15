@@ -1,0 +1,2 @@
+model_checkpoint_path: "mannul_checkpoint"
+all_model_checkpoint_paths: "mannul_checkpoint"
