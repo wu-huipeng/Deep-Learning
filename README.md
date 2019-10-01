@@ -11,3 +11,4 @@
   (2). [结合Tk GUI来应用我们的模型](https://github.com/wu-huipeng/Deep-Learning/blob/master/Pytorch/Sex%20recognize/GUI.py).
   (3). [项目文档](https://github.com/wu-huipeng/Deep-Learning/blob/master/Pytorch/Sex%20recognize/sex.md).
   2. [时装识别](https://github.com/wu-huipeng/Deep-Learning/tree/master/Pytorch/fashion).
+  (2). [项目文档](https://github.com/wu-huipeng/Deep-Learning/blob/master/Pytorch/fashion/fashion.md).
