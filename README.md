@@ -4,14 +4,18 @@
 
 一. [TensorFlow](https://github.com/wu-huipeng/Deep-Learning/tree/master/TensorFlow).
 1. [**MNIST识别**](https://github.com/wu-huipeng/Deep-Learning/tree/master/TensorFlow/MNIST).........
-(1). [结合OpenCV的绘图功能，进行手写数字识别](https://github.com/wu-huipeng/Deep-Learning/blob/master/TensorFlow/MNIST/MNIST.ipynb)  (2). [项目的简要说明](https://github.com/wu-huipeng/Deep-Learning/blob/master/TensorFlow/MNIST/MNIST.md).
+(1). [结合OpenCV的绘图功能，进行手写数字识别](https://github.com/wu-huipeng/Deep-Learning/blob/master/TensorFlow/MNIST/MNIST.ipynb) 
+(2). [项目的简要说明](https://github.com/wu-huipeng/Deep-Learning/blob/master/TensorFlow/MNIST/MNIST.md).
+
 2. [**生成MNIST**](https://github.com/wu-huipeng/Deep-Learning/tree/master/TensorFlow/DCGAN%20FOR%20MNIST)..........
+(2).[项目文档](https://github.com/wu-huipeng/Deep-Learning/blob/master/TensorFlow/DCGAN%20FOR%20MNIST/DCGAN.md).
 
 二. [Pyotrch](https://github.com/wu-huipeng/Deep-Learning/tree/master/Pytorch).
   1. [**TK结合Pytorch来界面化我们的模型**](https://github.com/wu-huipeng/Deep-Learning/tree/master/Pytorch/Sex%20recognize).........
   (1). [训练代码](https://github.com/wu-huipeng/Deep-Learning/blob/master/Pytorch/Sex%20recognize/train_pytorch.py).
   (2). [结合Tk GUI来应用我们的模型](https://github.com/wu-huipeng/Deep-Learning/blob/master/Pytorch/Sex%20recognize/GUI.py).
   (3). [项目文档](https://github.com/wu-huipeng/Deep-Learning/blob/master/Pytorch/Sex%20recognize/sex.md).
+  
   2. [**时装识别**](https://github.com/wu-huipeng/Deep-Learning/tree/master/Pytorch/fashion).........
   (1). [项目代码](https://github.com/wu-huipeng/Deep-Learning/blob/master/Pytorch/fashion/fashion.ipynb).
   (2). [项目文档](https://github.com/wu-huipeng/Deep-Learning/blob/master/Pytorch/fashion/fashion.md).
