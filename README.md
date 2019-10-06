@@ -11,7 +11,7 @@
     (1).[项目代码](https://github.com/wu-huipeng/Deep-Learning/blob/master/TensorFlow/DCGAN%20FOR%20MNIST/DCGAN%20for%20mnist.ipynb).
     (2).[项目文档](https://github.com/wu-huipeng/Deep-Learning/blob/master/TensorFlow/DCGAN%20FOR%20MNIST/DCGAN.md).
   
-  3.[**人脸识别**](https://github.com/wu-huipeng/Deep-Learning/tree/master/TensorFlow/Face_Recognize).
+  3. [**人脸识别**](https://github.com/wu-huipeng/Deep-Learning/tree/master/TensorFlow/Face_Recognize)..........
     (2)[项目文档](https://github.com/wu-huipeng/Deep-Learning/blob/master/TensorFlow/Face_Recognize/face_recognize.md).
     
     
