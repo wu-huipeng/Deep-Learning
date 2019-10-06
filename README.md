@@ -10,7 +10,9 @@
   2. [**生成MNIST**](https://github.com/wu-huipeng/Deep-Learning/tree/master/TensorFlow/DCGAN%20FOR%20MNIST)..........
     (1).[项目代码](https://github.com/wu-huipeng/Deep-Learning/blob/master/TensorFlow/DCGAN%20FOR%20MNIST/DCGAN%20for%20mnist.ipynb).
     (2).[项目文档](https://github.com/wu-huipeng/Deep-Learning/blob/master/TensorFlow/DCGAN%20FOR%20MNIST/DCGAN.md).
-
+  
+  3.["**人脸识别**]().
+    (2)[项目文档](https://github.com/wu-huipeng/Deep-Learning/blob/master/TensorFlow/Face_Recognize/face_recognize.md).
 二. [Pyotrch](https://github.com/wu-huipeng/Deep-Learning/tree/master/Pytorch).
   1. [**TK结合Pytorch来界面化我们的模型**](https://github.com/wu-huipeng/Deep-Learning/tree/master/Pytorch/Sex%20recognize).........
     (1). [训练代码](https://github.com/wu-huipeng/Deep-Learning/blob/master/Pytorch/Sex%20recognize/train_pytorch.py).
