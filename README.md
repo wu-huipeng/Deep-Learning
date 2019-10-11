@@ -29,3 +29,5 @@
     (2). [项目文档](https://github.com/wu-huipeng/Deep-Learning/blob/master/Pytorch/fashion/fashion.md).
   
   3. [**手势识别**](https://github.com/wu-huipeng/Deep-Learning/tree/master/Pytorch/gesture%20recognition).........
+    (1). [项目代码](https://github.com/wu-huipeng/Deep-Learning/blob/master/Pytorch/gesture%20recognition/%E6%89%8B%E5%8A%BF%E8%AF%86%E5%88%AB.py).
+    
