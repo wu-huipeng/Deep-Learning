@@ -20,7 +20,7 @@
     
 二. [Pyotrch](https://github.com/wu-huipeng/Deep-Learning/tree/master/Pytorch).
   1. [**TK结合Pytorch来界面化我们的模型**](https://github.com/wu-huipeng/Deep-Learning/tree/master/Pytorch/Sex%20recognize).........
-    (1). [训练代码](https://github.com/wu-huipeng/Deep-Learning/blob/master/Pytorch/Sex%20recognize/train_pytorch.py).
+    (1). [性别识别训练代码](https://github.com/wu-huipeng/Deep-Learning/blob/master/Pytorch/Sex%20recognize/train_pytorch.py).
     (2). [结合Tk GUI来应用我们的模型](https://github.com/wu-huipeng/Deep-Learning/blob/master/Pytorch/Sex%20recognize/GUI.py).
     (3). [项目文档](https://github.com/wu-huipeng/Deep-Learning/blob/master/Pytorch/Sex%20recognize/sex.md).
   
@@ -30,4 +30,4 @@
   
   3. [**手势识别**](https://github.com/wu-huipeng/Deep-Learning/tree/master/Pytorch/gesture%20recognition).........
     (1). [项目代码](https://github.com/wu-huipeng/Deep-Learning/blob/master/Pytorch/gesture%20recognition/%E6%89%8B%E5%8A%BF%E8%AF%86%E5%88%AB.py).
-    
+    (2). [项目文档](https://github.com/wu-huipeng/Deep-Learning/blob/master/Pytorch/gesture%20recognition/gesture%20recognition.md).
