@@ -31,3 +31,6 @@
   3. [**手势识别**](https://github.com/wu-huipeng/Deep-Learning/tree/master/Pytorch/gesture%20recognition).........
     (1). [项目代码](https://github.com/wu-huipeng/Deep-Learning/blob/master/Pytorch/gesture%20recognition/%E6%89%8B%E5%8A%BF%E8%AF%86%E5%88%AB.py).
     (2). [项目文档](https://github.com/wu-huipeng/Deep-Learning/blob/master/Pytorch/gesture%20recognition/gesture%20recognition.md).
+----
+在上面的入门项目完成后，我准备进入目标检测中去，上面的项目基本上是分类问题，而在目标检测中，我们既有回归任务，也有分类任务，难度大大加大了，加油吧！
+----
