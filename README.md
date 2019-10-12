@@ -34,3 +34,4 @@
 ----
 在上面的入门项目完成后，我准备进入目标检测中去，上面的项目基本上是分类问题，而在目标检测中，我们既有回归任务，也有分类任务，难度大大加大了，加油吧！
 ----
+一. [**TensorFlow2.0**](https://github.com/wu-huipeng/Deep-Learning/tree/master/TensorFlow-object-detection/faster-rcnn).
