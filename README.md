@@ -15,7 +15,7 @@
     (1)[训练代码](https://github.com/wu-huipeng/Deep-Learning/blob/master/TensorFlow/Face_Recognize/OpenCV%20and%20tf.ipynb).
     (2)[项目代码](https://github.com/wu-huipeng/Deep-Learning/blob/master/TensorFlow/Face_Recognize/%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB.ipynb).
     (3)[项目文档](https://github.com/wu-huipeng/Deep-Learning/blob/master/TensorFlow/Face_Recognize/face_recognize.md).
-    
+  4. [**数字验证码识别**]().
     
     
 二. [**Pyotrch**](https://github.com/wu-huipeng/Deep-Learning/tree/master/Pytorch).
