@@ -33,6 +33,7 @@
     (2). [项目文档](https://github.com/wu-huipeng/Deep-Learning/blob/master/Pytorch/gesture%20recognition/gesture%20recognition.md).
     
   4. [**数字验证码识别**](https://github.com/wu-huipeng/Deep-Learning/tree/master/Pytorch/Verification%20code%20identification).
+    (1).[模型训练](https://github.com/wu-huipeng/Deep-Learning/blob/master/Pytorch/Verification%20code%20identification/model.py).
     (2).[项目文档](https://github.com/wu-huipeng/Deep-Learning/blob/master/Pytorch/Verification%20code%20identification/Verification%20code%20identification.md).
   
 ----
